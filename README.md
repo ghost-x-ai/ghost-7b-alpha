@@ -6,6 +6,11 @@ The next generation of large language models focuses on optimization for excelle
 
 The Ghost X was developed with the goal of researching and developing artificial intelligence useful to humans.
 
+- Website: [Ghost X](https://ghost-x.vercel.app/).
+- Twitter / X: [@ghostx_ai](https://twitter.com/ghostx_ai).
+- HuggingFace: [ghost-x](https://huggingface.co/ghost-x).
+- Github: [ghost-x-ai](https://github.com/ghost-x-ai).
+
 ## Ghost 7B Alpha
 
 <img src="https://cdn-uploads.huggingface.co/production/uploads/600ae38cc92b79f54efd4556/QPrQZMQX_jzyYngmreP0_.jpeg" alt="Ghost 7B Alpha Logo" width="400" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
@@ -62,7 +67,7 @@ We offer notebooks with a wide selection of tools and platforms so you can easil
 
 There are currently two language versions: English and Vietnamese. In each version, it will be almost the same. The content will include installation instructions and functions to help get started quickly with experiencing the model's text generation capabilities. In addition, it also provides examples with system prompts for each field so you can better understand them.
 
-- [Ghost 7B Alpha - Playground using Transformer, en](./notebooks/Ghost%207B%20Alpha%20-%20Playground%20using%20Transformer,%20en.ipynb)
-- [Ghost 7B Alpha - Playground using Transformer, vi](./notebooks/Ghost%207B%20Alpha%20-%20Playground%20using%20Transformer,%20vi.ipynb)
-- [Ghost 7B Alpha - Playground using Unsloth, en](./notebooks/Ghost%207B%20Alpha%20-%20Playground%20using%20Unslosh,%20en.ipynb)
-- [Ghost 7B Alpha - Playground using Unsloth, vi](./notebooks/Ghost%207B%20Alpha%20-%20Playground%20using%20Unslosh,%20vi.ipynb)
+- [Ghost 7B Alpha - Playground using Transformer, en](./notebooks/Ghost%207B%20Alpha%20-%20Playground%20using%20Transformer,%20en.ipynb).
+- [Ghost 7B Alpha - Playground using Transformer, vi](./notebooks/Ghost%207B%20Alpha%20-%20Playground%20using%20Transformer,%20vi.ipynb).
+- [Ghost 7B Alpha - Playground using Unsloth, en](./notebooks/Ghost%207B%20Alpha%20-%20Playground%20using%20Unslosh,%20en.ipynb).
+- [Ghost 7B Alpha - Playground using Unsloth, vi](./notebooks/Ghost%207B%20Alpha%20-%20Playground%20using%20Unslosh,%20vi.ipynb).
