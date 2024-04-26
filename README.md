@@ -6,7 +6,7 @@ The next generation of large language models focuses on optimization for excelle
 
 The Ghost X was developed with the goal of researching and developing artificial intelligence useful to humans.
 
-- Website: [Ghost X](https://ghost-x.vercel.app/).
+- Website: [Ghost X](https://ghost-x.org/).
 - Twitter / X: [@ghostx_ai](https://twitter.com/ghostx_ai).
 - HuggingFace: [ghost-x](https://huggingface.co/ghost-x).
 - Github: [ghost-x-ai](https://github.com/ghost-x-ai).
@@ -30,7 +30,7 @@ Overall, the model is suitable when making a pretrained version so you can conti
 - Context length: 8K, 8192.
 - Languages: English and Vietnamese.
 - Main tasks: reasoning, multi-tasking knowledge and function tools.
-- License: [Ghost 7B LICENSE AGREEMENT](https://ghost-x.vercel.app/ghost-7b-license).
+- License: [Ghost 7B LICENSE AGREEMENT](https://ghost-x.org/ghost-7b-license).
 - Based on: Mistral 7B.
 - Distributions: Standard (BF16), GGUF, AWQ.
 - Developed by: **Ghost X**, [Hieu Lam](https://huggingface.co/lamhieu).
@@ -38,8 +38,8 @@ Overall, the model is suitable when making a pretrained version so you can conti
 #### Links
 
 - Card model: [🤗 HuggingFace](https://huggingface.co/ghost-x/ghost-7b-alpha).
-- Official website: [Ghost 7B Alpha](https://ghost-x.vercel.app/docs/models/ghost-7b-alpha/).
-- Demo: [Playground with Ghost 7B Alpha](https://ghost-x.vercel.app/docs/notebooks/playground-with-ghost-7b-alpha/).
+- Official website: [Ghost 7B Alpha](https://ghost-x.org/docs/models/ghost-7b-alpha/).
+- Demo: [Playground with Ghost 7B Alpha](https://ghost-x.org/docs/notebooks/playground-with-ghost-7b-alpha/).
 
 ### Distributions
 
@@ -56,12 +56,12 @@ We create many distributions to give you the best access options that best suit 
 For all official information and updates about the model, see here:
 
 - Card model: [🤗 HuggingFace](https://huggingface.co/ghost-x/ghost-7b-alpha).
-- Official website: [Ghost 7B Alpha](https://ghost-x.vercel.app/docs/models/ghost-7b-alpha/).
-- Demo: [Playground with Ghost 7B Alpha](https://ghost-x.vercel.app/docs/notebooks/playground-with-ghost-7b-alpha/).
+- Official website: [Ghost 7B Alpha](https://ghost-x.org/docs/models/ghost-7b-alpha/).
+- Demo: [Playground with Ghost 7B Alpha](https://ghost-x.org/docs/notebooks/playground-with-ghost-7b-alpha/).
 
 ### Notebooks
 
-To make it easy for everyone to quickly experience the model through platforms like Google Colab and Kaggle. We’ve made these notebooks available so you can get started right away. See available notebooks with details [here](https://ghost-x.vercel.app/docs/notebooks/playground-with-ghost-7b-alpha/).
+To make it easy for everyone to quickly experience the model through platforms like Google Colab and Kaggle. We’ve made these notebooks available so you can get started right away. See available notebooks with details [here](https://ghost-x.org/docs/notebooks/playground-with-ghost-7b-alpha/).
 
 We offer notebooks with a wide selection of tools and platforms so you can easily get started. Here are some available options for you to try right now. Let’s pick one to get started.
 
